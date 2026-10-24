@@ -172,20 +172,39 @@
     ],
     "blox_fruit_1": [
       {
+        "section": "🔥Hot"
+      },
+      {
         "name": "Redz V2",
         "url": "https://raw.githubusercontent.com/UCT-hub/main/refs/heads/main/redz-v2"
-      }
-    ],
-    "blox_fruit_2": [
+      },
       {
-        "section": "[🌱] Normal"
-      }
-    ],
-    "blox_fruit_3": [
+        "name": "Vxeze Hub",
+        "url": "https://raw.githubusercontent.com/Dex-Bear/VxezeHubLoader/refs/heads/main/MainHub.lua"
+      },
       {
-        "section": "[🗝️] Key"
+        "name": "OMG hub",
+        "url": "https://raw.githubusercontent.com/Omgshit/Scripts/main/MainLoader.lua"
+      },
+      {
+        "name": "realkid hub",
+        "url": "https://raw.githubusercontent.com/realkidhub/realkid/refs/heads/main/main.lua"
+      },
+      {
+        "name": "BlueX Hub",
+        "url": "https://raw.githubusercontent.com/Dev-BlueX/BlueX-Hub/refs/heads/main/Main.lua"
+      },
+      {
+        "name": "Quantum hub",
+        "url": "https://raw.githubusercontent.com/flazhy/QuantumOnyx/refs/heads/main/QuantumOnyx.lua"
+      },
+      {
+        "name": "Flow Hub",
+        "url": "https://api.luarmor.net/files/v4/loaders/5946add9ab91f1e04cb005346a8b1968.lua"
       }
     ],
+    "blox_fruit_2": [],
+    "blox_fruit_3": [],
     "blox_fruit_4": [],
     "auto_farm_1": [
       {
@@ -486,11 +505,11 @@
         "url": "https://raw.githubusercontent.com/realkidhub/realkid/refs/heads/main/main.lua",
         "smart": true
       },
-           {
+      {
         "name": "Chullu Hub",
         "url": "https://raw.githubusercontent.com/napun87/stealaneggv2/refs/heads/main/chulluHub.lua",
         "smart": true
-      }, 
+      },
       {
         "name": "Chilli Hub (Update)",
         "url": "https://raw.githubusercontent.com/kadit9999/stealanegg/refs/heads/main/ChilliV5BaKhi.lua",
@@ -500,12 +519,12 @@
         "name": "Chơi Admin Abuse",
         "url": "https://raw.githubusercontent.com/gojosatoru751/scriptdz/refs/heads/main/script.lua",
         "smart": true
-      }, 
+      },
       {
         "name": "Admin Abuse2,Key:fan phong roblox",
         "url": "https://gist.githubusercontent.com/angeryy-tvy/6a9ce750ddf5860230196ac468868fdb/raw/Steal-An-Egg-Vxeze",
         "smart": true
-      }, 
+      },
       {
         "name": "No lag Hub",
         "url": "https://raw.githubusercontent.com/napun87/stealaneggv2/refs/heads/main/Nolag.lua",
@@ -515,12 +534,12 @@
         "name": "Vexezehub Hub,Key:fan rubutv",
         "url": "https://gist.githubusercontent.com/angeryy-tvy/6a9ce750ddf5860230196ac468868fdb/raw/Steal-An-Egg-Vxeze",
         "smart": true
-      }, 
+      },
       {
         "name": "Miranda Hub ",
         "url": "https://raw.githubusercontent.com/gojosatoru751/scriptdz/refs/heads/main/miranda.lua",
         "smart": true
-      }, 
+      },
       {
         "name": "NightHub",
         "url": "https://raw.githubusercontent.com/WhiteX1208/Scripts/refs/heads/main/StealAnEggs.luau",
@@ -539,4 +558,4 @@
       }
     ]
   }
-      }
+}
