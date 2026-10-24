@@ -401,6 +401,14 @@
         "name": "ZeScript",
         "url": "https://api.jnkie.com/api/v1/luascripts/public/4192419a355cd0233b7416f498b78b91eb87bfb6123a4d214a2aa1e9243c6c72/download",
         "smart": true
+      },
+      {
+        "name": "MonQer Hub (Update)",
+        "url": "https://scriptunlocker.com/h/649ba8e7-5f5b-4637-924c-bde17293bb0d.lua"
+      },
+      {
+        "name": "DToraIsMe",
+        "url": "https://raw.githubusercontent.com/DarkDoorsKing/More/main/Doors_RC"
       }
     ],
     "99_nights": [
@@ -602,6 +610,11 @@
         "name": "Teddy Tiếng Việt (Update)",
         "url": "https://raw.githubusercontent.com/gojosatoru751/scriptdz/refs/heads/main/teddyhubtiengvietv2.lua",
         "title": "Teddy Hub",
+        "smart": true
+      },
+      {
+        "name": "Chilli x Venyx Việt Hóa",
+        "url": "https://id.tomroblox.com/raw/kairoblox/chilli-x-venyx-viet-hoa-v6-vip-pro98",
         "smart": true
       }
     ]
