@@ -1,0 +1,512 @@
+{
+  "version": 1,
+  "description": "Hiulz Hub script database. Mỗi mục: name, url, title (tuỳ chọn), smart (true = dùng safeLoadSmart), note, disabled.",
+  "lists": {
+    "jjs": [
+      {
+        "section": "📌 Jujutsu Shenanigans"
+      },
+      {
+        "name": "Auto Builder (JJS)",
+        "url": "https://raw.githubusercontent.com/PhNSecret/JJSAutobuilder/refs/heads/main/luau.lua",
+        "title": "JJS Autobuilder",
+        "smart": true
+      },
+      {
+        "name": "TBO Script (JJS)",
+        "url": "https://raw.githubusercontent.com/cool5013/TBO/main/TBOscript",
+        "title": "TBO HUB",
+        "smart": true
+      },
+      {
+        "name": "Combat Gui",
+        "url": "https://api.luarmor.net/files/v3/loaders/34824c86db1eba5e5e39c7c2d6d7fdfe.lua",
+        "smart": true
+      },
+      {
+        "name": "Script Uppercut And Downslam (JJS)",
+        "url": "https://raw.githubusercontent.com/ggab2351-stack/Jjs/refs/heads/main/Uppercutanddownslam",
+        "title": "Uppercut And Downslam",
+        "smart": true
+      },
+      {
+        "name": "Script Black Flash (JJS)",
+        "url": "https://raw.githubusercontent.com/ggab2351-stack/Jjs/refs/heads/main/obfuscated_script-1770002780541.lua.txt",
+        "title": "Black Flash",
+        "smart": true
+      },
+      {
+        "name": "Script Naoya (JJS)",
+        "url": "https://raw.githubusercontent.com/ggab2351-stack/Jjs/refs/heads/main/obfuscated_script-1770002780541.lua.txt",
+        "title": "Naoya",
+        "smart": true
+      }
+    ],
+    "tsb": [
+      {
+        "section": "📌 The Strongest Battlegrounds"
+      },
+      {
+        "name": "Script CarbonHub",
+        "url": "https://raw.githubusercontent.com/CStudios-Dev/csLoader.lua/main/CSLoader.lua",
+        "title": "CarbonHub",
+        "smart": true
+      },
+      {
+        "name": "MerebennieHUB",
+        "url": "https://raw.githubusercontent.com/67HubDev/all/refs/heads/main/MerebennieHUB.txt",
+        "smart": true
+      },
+      {
+        "name": "VexonHub",
+        "url": "https://raw.githubusercontent.com/DiosDi/VexonHub/refs/heads/main/VexonHub",
+        "smart": true
+      },
+      {
+        "name": "Trash Can",
+        "url": "https://raw.githubusercontent.com/yes1nt/yes/refs/heads/main/Trashcan%20Man",
+        "smart": true
+      },
+      {
+        "name": "AutoFarm TrashCan",
+        "url": "https://raw.githubusercontent.com/Cyborg883/AutoFarmKills/refs/heads/main/TrashCan",
+        "smart": true
+      },
+      {
+        "name": "AimLock & Block",
+        "url": "https://raw.githubusercontent.com/Cyborg883/CombatGUI/refs/heads/main/TSBCombatGUI",
+        "smart": true
+      },
+      {
+        "name": "XDevHubBeta",
+        "url": "https://raw.githubusercontent.com/Emerson2-creator/Scripts-Roblox/refs/heads/main/XDevHubBeta.lua",
+        "smart": true
+      }
+    ],
+    "tsb_tech": [
+      {
+        "section": "📌 Tùy chỉnh Tech (TSB)"
+      },
+      {
+        "name": "Supa Tech V3",
+        "url": "https://api.getpolsec.com/scripts/hosted/ea0b7cbd8c395e01ec38271794b2559808d26501bd6e6e30c48660759a7db7b3.lua",
+        "smart": true
+      },
+      {
+        "name": "Garou Tech",
+        "url": "https://raw.githubusercontent.com/Cyborg883/GarouTechs/refs/heads/main/Protected_9831634675356265.lua",
+        "smart": true
+      },
+      {
+        "name": "Backdash Cancel",
+        "url": "https://api.getpolsec.com/scripts/hosted/0b57119c46c0267e6791f789ace2ffac7b752a63224d86a0b6f95d68aec099ac.lua",
+        "smart": true
+      },
+      {
+        "name": "BOOMY LoopDash V2",
+        "url": "https://api.getpolsec.com/scripts/hosted/84e2bd29cccc0f5302267e4dc952cff6816db4af36416cbd477daaa26d60863d.lua",
+        "smart": true
+      },
+      {
+        "name": "Instant Twisted Old",
+        "url": "https://api.getpolsec.com/scripts/hosted/1e18721250d10562953e57cd75a2e7e4151b7d20e876930c0f394056d253b3fd.lua",
+        "smart": true
+      },
+      {
+        "name": "Side Dash assist V3",
+        "url": "https://api.getpolsec.com/scripts/hosted/23bcf4264b586dc93b16a9b054eddae259938b7421ac5096353079b2e9d74e24.lua",
+        "smart": true
+      },
+      {
+        "name": "Best Oreo Script",
+        "url": "https://pandadevelopment.net/virtual/file/e6419ee43f9e7f1f",
+        "smart": true
+      },
+      {
+        "name": "M1 Reset",
+        "url": "https://raw.githubusercontent.com/Slaphello/M1-Reset-And-Emote-Dash-TSB-OLD-/refs/heads/main/M1R%26ED%20TSB",
+        "smart": true
+      }
+    ],
+    "tsb_character": [
+      {
+        "section": "📌 Nhân vật (TSB)"
+      },
+      {
+        "name": "Perfect Gojo",
+        "url": "https://rawscripts.net/raw/KJ-The-Strongest-Battlegrounds-battleground-gojo-script-saitama-to-gojo-26980"
+      },
+      {
+        "name": "Sc!Sans",
+        "url": "https://pastefy.app/SiVOcaqi/raw"
+      },
+      {
+        "name": "Chara (Saitama)",
+        "url": "https://pastefy.app/gFRaeMGz/raw",
+        "title": "Chara"
+      },
+      {
+        "name": "Akuma",
+        "url": "https://pastefy.app/Np8P87lk/raw?part=AKUMA.lua"
+      },
+      {
+        "name": "Garou Mastery",
+        "url": "https://pastefy.app/CyAlemKo/raw"
+      },
+      {
+        "name": "Igris",
+        "url": "https://raw.githubusercontent.com/sparksnaps/igris/refs/heads/main/Lua"
+      },
+      {
+        "name": "Shadow",
+        "url": "https://raw.githubusercontent.com/sparksnaps/Lord-Shadow-Beta/refs/heads/main/Lua"
+      },
+      {
+        "name": "Bihah",
+        "url": "https://pastefy.app/RuUEXVUS/raw"
+      },
+      {
+        "name": "Sans",
+        "url": "https://pastefy.app/EU9b4abX/raw"
+      }
+    ],
+    "blox_fruit_1": [
+      {
+        "name": "Redz V2",
+        "url": "https://raw.githubusercontent.com/UCT-hub/main/refs/heads/main/redz-v2"
+      }
+    ],
+    "blox_fruit_2": [
+      {
+        "section": "[🌱] Normal"
+      }
+    ],
+    "blox_fruit_3": [
+      {
+        "section": "[🗝️] Key"
+      }
+    ],
+    "blox_fruit_4": [],
+    "auto_farm_1": [
+      {
+        "name": "NaNafarmchest",
+        "url": "https://raw.githubusercontent.com/NaNaTV36/NaNaautochest/refs/heads/main/NaNafarmchest.lua"
+      },
+      {
+        "section": "📌  KAITUN"
+      }
+    ],
+    "auto_farm_2": [
+      {
+        "name": "Meox Hub Kaitun",
+        "url": "https://raw.githubusercontent.com/MEOW-HUB-DEV/SCRIPT-FREE/refs/heads/main/MeowKaitun.lua"
+      },
+      {
+        "name": "ADZ KAITUN",
+        "url": "https://raw.githubusercontent.com/AnDepZaiHub/AnDepZaiHubBeta/refs/heads/main/adzKaitun.lua",
+        "title": "ADZ KT"
+      }
+    ],
+    "jump_showdown": [
+      {
+        "name": "Esp Event & Esp",
+        "url": "https://rawscripts.net/raw/JJS-Jump-Showdown-Universal-ESP-Events-and-ESP-115402",
+        "title": "JumpShowdown - ESP Events & ESP",
+        "smart": true
+      }
+    ],
+    "escape_tsunami": [
+      {
+        "section": "📌 Escape Tsunami For Brainrots"
+      },
+      {
+        "name": "KdmlScripts",
+        "url": "https://raw.githubusercontent.com/kedd063/KdmlScripts/refs/heads/main/EscapeTsunamiForBrainrotsV4",
+        "smart": true
+      },
+      {
+        "name": "RatX",
+        "url": "https://raw.githubusercontent.com/Ratkinator/RatX/refs/heads/main/Loader.lua",
+        "smart": true
+      },
+      {
+        "name": "Tora Is Me",
+        "url": "https://raw.githubusercontent.com/gumanba/Scripts/main/EscapeTsunamiForBrainrots"
+      },
+      {
+        "name": "OsakaTP2",
+        "url": "https://raw.githubusercontent.com/osakaTP2/OsakaTP2/main/Escape%20tsunami%20for%20brainrotsGalaxy6.5"
+      },
+      {
+        "name": "Vinzhub",
+        "url": "https://script.vinzhub.com/loader"
+      },
+      {
+        "name": "MystrixHub",
+        "url": "https://github.com/OxyCoder32/Crackers/raw/refs/heads/main/Mystrix%20Hub"
+      },
+      {
+        "name": "Cyrus Hub",
+        "url": "https://raw.githubusercontent.com/kedd063/KdmlScripts/refs/heads/main/EscapeTsunamiForBrainrotsV4"
+      }
+    ],
+    "fish_it": [
+      {
+        "section": "📌 Fish It Script"
+      },
+      {
+        "name": "Load Script Fisch It",
+        "url": "https://raw.githubusercontent.com/Skibidiking123/Fisch1/refs/heads/main/FischMain",
+        "title": "FishIt - FischMain",
+        "smart": true
+      },
+      {
+        "name": "Fish IT-2",
+        "url": "https://menghub.dannnnbiasalah.workers.dev/",
+        "title": "FishIt - 2",
+        "smart": true
+      }
+    ],
+    "fish": [
+      {
+        "section": "📌 Fish Script"
+      },
+      {
+        "name": "Load Lynx Hub",
+        "url": "https://raw.githubusercontent.com/4LynxX/Lynx/refs/heads/main/LynxxMain.lua",
+        "title": "Lynx Hub",
+        "smart": true
+      },
+      {
+        "name": "Load Shield Team & Lưu ý : vô nó sẽ hiện bản discord gì đó ấn copy link và đợi 3s script sẽ tự bật nha :>>",
+        "url": "https://api.shieldteam.asia/api/allscript",
+        "title": "Shield Team - AllScript",
+        "smart": true
+      }
+    ],
+    "mm2": [
+      {
+        "section": "📌 Murder Mystery 2"
+      },
+      {
+        "name": "Load Overdrive Hub",
+        "url": "https://api.overdrivehub.xyz/v1/auth",
+        "title": "Overdrive Hub",
+        "smart": true
+      }
+    ],
+    "garden_horizons_1": [
+      {
+        "section": "📌 Script Garden Horizons"
+      },
+      {
+        "name": "Load Speed Hub X",
+        "url": "https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua",
+        "title": "Speed Hub X",
+        "smart": true
+      },
+      {
+        "name": "Vxeze Hub",
+        "url": "https://vxezestudio.online/api/scripts/script_gb12wihwnml/plain"
+      }
+    ],
+    "garden_horizons_2": [
+      {
+        "name": "Street Hub",
+        "url": "https://pandadevelopment.net/virtual/file/36a1d4513a0ce188"
+      },
+      {
+        "name": "Cyraa Hub",
+        "url": "https://raw.githubusercontent.com/LynX99-9/komtolmmek2/refs/heads/main/Garden%20Horizon"
+      },
+      {
+        "name": "Chiyo Hub",
+        "url": "https://raw.githubusercontent.com/kaisenlmao/loader/refs/heads/main/chiyo.lua"
+      },
+      {
+        "name": "Cz",
+        "url": "https://airflowscript.com/loader"
+      }
+    ],
+    "evade_1": [
+      {
+        "section": "📌 Evade Scripts"
+      },
+      {
+        "name": "Evade Loader",
+        "url": "https://api.luarmor.net/files/v3/loaders/f3ed0bc1276c97a6404b78a360196d2d.lua",
+        "smart": true
+      },
+      {
+        "name": "NonameX-Keyless",
+        "url": "https://rawscripts.net/raw/Evade-NonameX-Keyless-122316",
+        "title": "NonameX",
+        "smart": true
+      },
+      {
+        "name": "Draconic Hub",
+        "url": "https://raw.githubusercontent.com/Nyxarth910/Draconic-Hub-X/refs/heads/main/files/Evade/Overhaul.lua",
+        "smart": true
+      }
+    ],
+    "evade_2": [
+      {
+        "name": "Real King",
+        "url": "https://raw.githubusercontent.com/zReal-King/Evade/main/Main.lua",
+        "smart": true
+      },
+      {
+        "name": "Free Script ESP",
+        "url": "https://raw.githubusercontent.com/JScripter-Lua/Mid-Journey_Open-Source/refs/heads/main/Evade%20Lag%20Free%20Test.lua",
+        "smart": true
+      },
+      {
+        "name": "Script Evade No Key",
+        "url": "https://pastebin.com/raw/PY70SKrt",
+        "smart": true
+      }
+    ],
+    "evade_3": [
+      {
+        "name": "Tbao Hub",
+        "url": "https://raw.githubusercontent.com/tbao143/thaibao/main/TbaoHubEvade",
+        "title": "Thao Hub",
+        "smart": true
+      }
+    ],
+    "doors": [
+      {
+        "section": "📌 Script Doors"
+      },
+      {
+        "name": "ZeScript",
+        "url": "https://api.jnkie.com/api/v1/luascripts/public/4192419a355cd0233b7416f498b78b91eb87bfb6123a4d214a2aa1e9243c6c72/download",
+        "smart": true
+      }
+    ],
+    "99_nights": [
+      {
+        "section": "📌 Script 99 Nights In The Forest"
+      },
+      {
+        "name": "Nova Hub",
+        "url": "https://raw.githubusercontent.com/M4rshmall0ow-dev/Nova/refs/heads/main/Script%20Loader%20Main"
+      }
+    ],
+    "knockout": [
+      {
+        "section": "📌 Script Knockout"
+      },
+      {
+        "name": "Zenk Studio",
+        "url": "https://api.luarmor.net/files/v4/loaders/07d5a780a235a759854475853c1ced8f.lua"
+      },
+      {
+        "name": "Luminis",
+        "url": "https://api.luarmor.net/files/v4/loaders/24df4399c3458d81346da5dda02fe1d1.lua"
+      },
+      {
+        "name": "JNHHGaming",
+        "url": "https://raw.githubusercontent.com/JNHHGaming/Knockout/refs/heads/main/Knockout"
+      },
+      {
+        "name": "QewX",
+        "url": "https://pastebin.com/raw/Rhm6VrXp"
+      }
+    ],
+    "titan_fishing": [
+      {
+        "section": "Script Câu cá vạn cân"
+      },
+      {
+        "name": "Khfresh Hub",
+        "url": "https://pastefy.app/F1ZRpgGL/raw"
+      }
+    ],
+    "general": [
+      {
+        "section": "📌 Script Chung"
+      },
+      {
+        "name": "Infinite Yield (FE Admin)",
+        "url": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
+        "title": "Infinite Yield",
+        "smart": true
+      },
+      {
+        "name": "CaoTuanAnh",
+        "url": "https://raw.githubusercontent.com/getscript-vn/CaoTuanAnh/refs/heads/main/loadermanager.lua",
+        "smart": true
+      },
+      {
+        "name": "FE Animations",
+        "url": "https://raw.githubusercontent.com/BeemTZy/Motiona/refs/heads/main/source.lua",
+        "smart": true
+      },
+      {
+        "name": "Load Speed Hub X",
+        "url": "https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua",
+        "title": "Speed Hub X",
+        "smart": true
+      },
+      {
+        "name": "FPS UNLOCKED + SHADERS",
+        "url": "https://raw.githubusercontent.com/67HubDev/all/refs/heads/main/FPS%20UNLOCKED%20%2B%20SHADERS",
+        "smart": true
+      },
+      {
+        "name": "RTXShader",
+        "url": "https://pastefy.app/ymruM9Ul/raw",
+        "smart": true
+      },
+      {
+        "name": "FE EMOTES",
+        "url": "https://raw.githubusercontent.com/7yd7/Hub/refs/heads/Branch/GUIS/Emotes.lua",
+        "smart": true
+      },
+      {
+        "name": "AnimationLGR",
+        "url": "https://raw.githubusercontent.com/Mereeeecuf/Developer-Tools/refs/heads/main/AnimationLGR",
+        "smart": true
+      }
+    ],
+    "optimize": [
+      {
+        "name": "🍂 Script chỉnh đồ hoạ",
+        "url": "https://raw.githubusercontent.com/randomstring0/pshade-ultimate/refs/heads/main/src/cd.lua",
+        "title": "Script chỉnh đồ hoạ"
+      }
+    ],
+    "steal_an_egg": [
+      {
+        "section": "📌 Steal an Egg"
+      },
+      {
+        "name": "Realkidhub",
+        "url": "https://raw.githubusercontent.com/realkidhub/realkid/refs/heads/main/main.lua",
+        "smart": true
+      },
+      {
+        "name": "Chilli Hub (Update)",
+        "url": "https://raw.githubusercontent.com/kadit9999/stealanegg/refs/heads/main/ChilliV5BaKhi.lua",
+        "smart": true
+      },
+      {
+        "name": "NightHub",
+        "url": "https://raw.githubusercontent.com/WhiteX1208/Scripts/refs/heads/main/StealAnEggs.luau",
+        "smart": true
+      },
+      {
+        "name": "Skid Hub (Tiếng Việt)",
+        "url": "https://vxezestudio.online/api/scripts/script_JS69qlzJxDea4/stream/init",
+        "smart": true
+      },
+      {
+        "name": "Teddy Tiếng Việt (Update)",
+        "url": "https://raw.githubusercontent.com/teddyhubdev/diepvy/refs/heads/main/TeddyHub.lua",
+        "title": "Teddy Hub",
+        "smart": true
+      }
+    ]
+  }
+      }
