@@ -215,6 +215,34 @@
       {
         "name": "Flow Hub",
         "url": "https://api.luarmor.net/files/v4/loaders/5946add9ab91f1e04cb005346a8b1968.lua"
+      },
+      {
+        "name": "ARC Hub",
+        "url": "https://raw.githubusercontent.com/bloxfruitsnokey/Arcylic/refs/heads/main/ARC/new.luau",
+        "title": "ARC Hub"
+      },
+      {
+        "name": "Scythe Hub (UI Banana)",
+        "url": "https://raw.githubusercontent.com/bloxfruitsnokey/Banana/refs/heads/main/Scythe/run.luau",
+        "title": "Scythe Hub"
+      },
+      {
+        "name": "Gavz Hub",
+        "url": "https://raw.githubusercontent.com/bloxfruitsnokey/Redz-Hub/refs/heads/main/Gavz/v1.luau",
+        "title": "Gavz Hub"
+      },
+      {
+        "name": "Ovaz Hub",
+        "url": "https://raw.githubusercontent.com/bloxfruitsnokey/Redz-Hub/refs/heads/main/Ovaz/run.luau",
+        "title": "Ovaz Hub"
+      },
+      {
+        "name": "Night Hub",
+        "url": "https://raw.githubusercontent.com/WhiteX1208/Scripts/refs/heads/main/BF-Main.luau",
+        "title": "Night Hub",
+        "genv": {
+          "script_key": "FREEMIUM"
+        }
       }
     ],
     "blox_fruit_2": [],
