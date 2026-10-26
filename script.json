@@ -576,6 +576,11 @@
         "section": "📌 Steal an Egg"
       },
       {
+        "name": "ChilliHub V7 Keyless",
+        "url": "https://raw.githubusercontent.com/owenzeke99-tech/chillihubv7/refs/heads/main/chillihubv7keyless.txt",
+        "smart": true
+      },
+      {
         "name": "Realkidhub",
         "url": "https://raw.githubusercontent.com/realkidhub/realkid/refs/heads/main/main.lua",
         "smart": true
