@@ -327,6 +327,61 @@
         "url": "https://api.overdrivehub.xyz/v1/auth",
         "title": "Overdrive Hub",
         "smart": true
+      },
+      {
+        "name": "Thunder Hub",
+        "url": "https://raw.githubusercontent.com/Roman34296589/SnapSanixHUB/refs/heads/main/SnapSanixHUB.lua",
+        "smart": true
+      },
+      {
+        "name": "Ronix Hub",
+        "url": "https://api.luarmor.net/files/v3/loaders/fda9babd071d6b536a745774b6bc681c.lua",
+        "smart": true
+      },
+      {
+        "name": "Vexon Hub",
+        "url": "https://raw.githubusercontent.com/DiosDi/VexonHub/refs/heads/main/VexonHub",
+        "smart": true
+      },
+      {
+        "name": "Foggy Hub",
+        "url": "https://raw.githubusercontent.com/FOGOTY/mm2-piano-reborn/refs/heads/main/scr",
+        "smart": true
+      },
+      {
+        "name": "Rift Hub",
+        "url": "https://rifton.top/loader.lua",
+        "smart": true
+      },
+      {
+        "name": "Kira Hub",
+        "url": "https://pastebin.com/raw/eGmmuZmB",
+        "smart": true
+      },
+      {
+        "name": "Slix Hub",
+        "url": "https://raw.githubusercontent.com/Azura83/Murder-Mystery-2/refs/heads/main/Script.lua",
+        "smart": true
+      },
+      {
+        "name": "Metan Hub",
+        "url": "https://raw.githubusercontent.com/Youdfff/MetanHub/refs/heads/main/moonveil.lua",
+        "smart": true
+      },
+      {
+        "name": "Aether Hub",
+        "url": "https://raw.githubusercontent.com/vzyxer/Aether-Hub-Global-Roblox-Script-Hub/refs/heads/main/Murder%20Mystery%202",
+        "smart": true
+      },
+      {
+        "name": "Mars Hub",
+        "url": "https://raw.githubusercontent.com/1andonlymars/MarsHub/main/MM2",
+        "smart": true
+      },
+      {
+        "name": "Fable Hub",
+        "url": "https://raw.githubusercontent.com/Havickzi/Rocket-script/refs/heads/main/Fable_Hub.lua",
+        "smart": true
       }
     ],
     "garden_horizons_1": [
@@ -642,7 +697,7 @@
       {
         "name": "Chilli x Venyx Việt Hóa",
         "name_en": "Chilli x Venyx (Vietnamese)",
-        "url": "https://id.tomroblox.com/raw/kairoblox/chilli-x-venyx-viet-hoa-premium-v7-pro",
+        "url": "https://id.tomroblox.com/raw/kairoblox/chilli-x-venyx-viet-hoa-v6-vip-pro98",
         "smart": true
       },
       {
