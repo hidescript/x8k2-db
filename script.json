@@ -737,6 +737,14 @@
         "name": "Chilli Hub Pro",
         "url": "https://raw.githubusercontent.com/napun87/stealanegg/refs/heads/main/ChilliHubPro.lua",
         "smart": true
+      },
+      {
+        "name": "Script Phân Thân",
+        "name_en": "Clone Script",
+        "url": "https://raw.githubusercontent.com/ThanhDuyHub/Curu/refs/heads/main/Steal-An-Egg-V3.lua",
+        "title": "Script Phân Thân",
+        "title_en": "Clone Script",
+        "smart": true
       }
     ]
   }
