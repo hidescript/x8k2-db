@@ -189,6 +189,20 @@
         "section": "🔥Hot"
       },
       {
+        "name": "Blue X Hub Beta",
+        "url": "https://raw.githubusercontent.com/Dev-BlueX/BlueX-Hub/refs/heads/main/Main.lua",
+        "title": "Blue X Hub Beta",
+        "genv": {
+          "AutoTranslate": false,
+          "SaveConfig": true
+        }
+      },
+      {
+        "name": "Teddy Hub",
+        "url": "https://raw.githubusercontent.com/teddyhubdev/diepvy/refs/heads/main/TeddyHub.lua",
+        "title": "Teddy Hub"
+      },
+      {
         "name": "Redz V2",
         "url": "https://raw.githubusercontent.com/UCT-hub/main/refs/heads/main/redz-v2"
       },
@@ -657,6 +671,18 @@
     "steal_an_egg": [
       {
         "section": "📌 Steal an Egg"
+      },
+      {
+        "name": "Codium Hub",
+        "url": "https://raw.githubusercontent.com/gojosatoru751/scriptdz/refs/heads/main/codiumhub.xyz",
+        "title": "Codium Hub",
+        "smart": true
+      },
+      {
+        "name": "Chilli Hub V4Pro",
+        "url": "https://raw.githubusercontent.com/napun87/stealanegg/refs/heads/main/chilli.otcaydodaiNoKey3.7.lua",
+        "title": "Chilli Hub V4Pro",
+        "smart": true
       },
       {
         "name": "ChilliHub V7 Keyless",
