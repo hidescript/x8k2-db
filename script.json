@@ -189,6 +189,11 @@
         "section": "🔥Hot"
       },
       {
+        "name": "Banana Hub",
+        "url": "https://raw.githubusercontent.com/bloxfruitsnokey/Banana/refs/heads/main/Banana/script.luau",
+        "title": "Banana Hub"
+      },
+      {
         "name": "Blue X Hub Beta",
         "url": "https://raw.githubusercontent.com/Dev-BlueX/BlueX-Hub/refs/heads/main/Main.lua",
         "title": "Blue X Hub Beta",
@@ -272,6 +277,91 @@
       }
     ],
     "auto_farm_2": [
+      {
+        "name": "Vxeze Hub Kaitun (Blox Fruits)",
+        "url": "https://raw.githubusercontent.com/Dex-Bear/VxezeHubLoader/refs/heads/main/BF-Kaitun.lua",
+        "title": "Vxeze Hub Kaitun",
+        "note": "Kaitun tự động bản Free: team Pirates, khoá 30 FPS",
+        "note_en": "Free auto Kaitun: Pirates team, 30 FPS lock",
+        "genv": {
+          "Premium": false,
+          "FpsBoost": true,
+          "Key": "",
+          "Config": {
+            "Blox Fruits": {
+              "Hide UI": false,
+              "Select Team": "Pirates",
+              "White Screen": false,
+              "Lock Fps": {
+                "Enabled": true,
+                "FPS": 30
+              },
+              "Get Items": {
+                "Saber": true,
+                "Godhuman": true,
+                "Skull Guitar": true,
+                "Mirror Fractal": true,
+                "Cursed Dual Katana": true,
+                "Shark Anchor": true
+              },
+              "Get Rare Items": {
+                "Rengoku": false,
+                "Dragon Trident": false,
+                "Pole (1st Form)": false,
+                "Gravity Blade": false
+              },
+              "Get Race": {
+                "Race Quest": {
+                  "Enabled": false,
+                  "Race": [
+                    "Ghoul"
+                  ]
+                },
+                "Pull Lever": true
+              },
+              "Farm Fragments": {
+                "Enabled": false,
+                "Fragment": 50000
+              },
+              "Summon Rip Indra": true,
+              "Select Hop": {
+                "Hop If Found Near Exploiter": false,
+                "Hop Find rip_indra True Form": false,
+                "Hop Find Dough King": false,
+                "Hop Find Raids Castle": false,
+                "Hop Find Cake Queen": false,
+                "Hop Find Soul Reaper": false,
+                "Hop Find Darkbeard": false,
+                "Hop Find Mirage": false
+              },
+              "Farm Mastery": {
+                "Enabled": false,
+                "Mode": "Bone",
+                "Weapon Farm": [
+                  "Sword",
+                  "Blox Fruit"
+                ]
+              },
+              "Sniper Fruit Shop": {
+                "Enabled": true,
+                "Fruit": [
+                  "Leopard-Leopard",
+                  "Kitsune-Kitsune",
+                  "Dragon-Dragon",
+                  "Yeti-Yeti",
+                  "Gas-Gas"
+                ]
+              },
+              "Lock Fruit": {},
+              "Webhook": {
+                "Enabled": false,
+                "Ping Discord": "<@here>",
+                "Url": ""
+              }
+            }
+          }
+        }
+      },
       {
         "name": "Meox Hub Kaitun",
         "url": "https://raw.githubusercontent.com/MEOW-HUB-DEV/SCRIPT-FREE/refs/heads/main/MeowKaitun.lua"
@@ -673,6 +763,12 @@
         "section": "📌 Steal an Egg"
       },
       {
+        "name": "VenyxHub",
+        "url": "https://raw.githubusercontent.com/tienkhanh1/Venyx/main/VenyxHub",
+        "title": "VenyxHub",
+        "smart": true
+      },
+      {
         "name": "Codium Hub",
         "url": "https://raw.githubusercontent.com/gojosatoru751/scriptdz/refs/heads/main/codiumhub.xyz",
         "title": "Codium Hub",
@@ -749,7 +845,7 @@
         "smart": true
       },
       {
-        "name": "Chilli x Venyx V7",
+        "name": "Chilli x Venyx",
         "name_en": "Chilli x Venyx (Vietnamese)",
         "url": "https://id.tomroblox.com/raw/kairoblox/chilli-x-venyx-viet-hoa-premium-v7-pro",
         "smart": true
