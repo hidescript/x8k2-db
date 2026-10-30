@@ -754,6 +754,12 @@
         "section": "📌 Steal an Egg"
       },
       {
+        "name": "Ajj Hub",
+        "url": "https://api.luarmor.net/files/v4/loaders/359e97f8618e9008afe5f496184ebb7c.lua",
+        "title": "Ajj Hub",
+        "smart": true
+      },
+      {
         "name": "VenyxHub",
         "url": "https://raw.githubusercontent.com/tienkhanh1/Venyx/main/VenyxHub",
         "title": "VenyxHub",
@@ -766,9 +772,9 @@
         "smart": true
       },
       {
-        "name": "Chilli Hub V4Pro",
+        "name": "Chilli Hub V8",
         "url": "https://raw.githubusercontent.com/napun87/stealanegg/refs/heads/main/chilli.otcaydodaiNoKey3.7.lua",
-        "title": "Chilli Hub V4Pro",
+        "title": "Chilli Hub V8",
         "smart": true
       },
       {
