@@ -703,18 +703,13 @@
     ],
     "general": [
       {
-        "section": "📌 Script Chung",
-        "section_en": "📌 General Scripts"
+        "section": "📌 Script Khác",
+        "section_en": "📌 Other Scripts"
       },
       {
         "name": "Infinite Yield (FE Admin)",
         "url": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
         "title": "Infinite Yield",
-        "smart": true
-      },
-      {
-        "name": "CaoTuanAnh",
-        "url": "https://raw.githubusercontent.com/getscript-vn/CaoTuanAnh/refs/heads/main/loadermanager.lua",
         "smart": true
       },
       {
@@ -729,13 +724,9 @@
         "smart": true
       },
       {
-        "name": "FPS UNLOCKED + SHADERS",
-        "url": "https://raw.githubusercontent.com/67HubDev/all/refs/heads/main/FPS%20UNLOCKED%20%2B%20SHADERS",
-        "smart": true
-      },
-      {
-        "name": "RTXShader",
-        "url": "https://pastefy.app/ymruM9Ul/raw",
+        "name": "PShade Shader",
+        "url": "https://rawscripts.net/raw/Universal-Script-PShade-Ultimate-not-made-by-me-138315",
+        "title": "PShade Shader",
         "smart": true
       },
       {
@@ -796,7 +787,7 @@
         "smart": true
       },
       {
-        "name": "Chilli Hub (Update)",
+        "name": "Chilli HubV",
         "url": "https://raw.githubusercontent.com/kadit9999/stealanegg/refs/heads/main/ChilliV5BaKhi.lua",
         "smart": true
       },
@@ -866,6 +857,21 @@
         "url": "https://raw.githubusercontent.com/ThanhDuyHub/Curu/refs/heads/main/Steal-An-Egg-V3.lua",
         "title": "Script Phân Thân",
         "title_en": "Clone Script",
+        "smart": true
+      },
+      {
+        "name": "Sena Hub",
+        "url": "https://raw.githubusercontent.com/napun87/stealaneggv2/refs/heads/main/sensahub.lua",
+        "smart": true
+      },
+      {
+        "name": "Hop Server Pet",
+        "url": "https://raw.githubusercontent.com/napun87/stealaneggv2/refs/heads/main/hopefully.lua",
+        "smart": true
+      },
+      {
+        "name": "Chilli Hub Keyless",
+        "url": "https://raw.githubusercontent.com/owenzeke99-tech/tienkhanh1/refs/heads/main/chillihubkeyless.lua",
         "smart": true
       }
     ]
