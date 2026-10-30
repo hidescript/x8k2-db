@@ -4,6 +4,7 @@
   "lists": {
     "jjs": [
       { "section": "📌 Jujutsu Shenanigans" },
+      { "name": "Atom Hub (JJS)", "url": "https://api.luarmor.net/files/v4/loaders/4edadc1849a9e19555f2328138618dd6.lua", "title": "Atom Hub", "smart": true },
       { "name": "Auto Builder (JJS)", "url": "https://raw.githubusercontent.com/PhNSecret/JJSAutobuilder/refs/heads/main/luau.lua", "title": "JJS Autobuilder", "smart": true },
       { "name": "TBO Script (JJS)", "url": "https://raw.githubusercontent.com/cool5013/TBO/main/TBOscript", "title": "TBO HUB", "smart": true },
       { "name": "Combat Gui", "url": "https://api.luarmor.net/files/v3/loaders/34824c86db1eba5e5e39c7c2d6d7fdfe.lua", "smart": true },
@@ -219,7 +220,7 @@
       { "name": "AnimationLGR", "url": "https://raw.githubusercontent.com/Mereeeecuf/Developer-Tools/refs/heads/main/AnimationLGR", "smart": true }
     ],
     "optimize": [
-      { "name": "🍂 Script chỉnh đồ hoạ", "name_en": "🍂 Graphics Tuner Script", "url": "https://raw.githubusercontent.com/randomstring0/pshade-ultimate/refs/heads/src/cd.lua", "title": "Script chỉnh đồ hoạ", "title_en": "Graphics Tuner Script" }
+      { "name": "🍂 Script chỉnh đồ hoạ", "name_en": "🍂 Graphics Tuner Script", "url": "https://raw.githubusercontent.com/randomstring0/pshade-ultimate/refs/heads/main/src/cd.lua", "title": "Script chỉnh đồ hoạ", "title_en": "Graphics Tuner Script" }
     ],
     "steal_an_egg": [
       { "section": "📌 Steal an Egg" },
