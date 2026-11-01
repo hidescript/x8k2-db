@@ -1,7 +1,7 @@
 { "version": 1, "description": "Hiulz Hub script database. Mỗi mục: name, url, title (tuỳ chọn), smart (true = dùng safeLoadSmart), note, disabled. Bản dịch Anh: name_en, section_en, note_en, title_en.", "lists": {
 "jjs": [
 { "section": "📌 Jujutsu Shenanigans" },
-{ "name": "Atom Hub (JJS)", "url": "https://api.luarmor.net/files/v4/loaders/4edadc1849a9e19555f2328138618dd6.lua", "title": "Atom Hub", "smart": true },
+{ "name": "Atom Hub (🎃)", "url": "https://api.luarmor.net/files/v4/loaders/4edadc1849a9e19555f2328138618dd6.lua", "title": "Atom Hub", "smart": true },
 { "name": "Auto Builder (JJS)", "url": "https://raw.githubusercontent.com/PhNSecret/JJSAutobuilder/refs/heads/main/luau.lua", "title": "JJS Autobuilder", "smart": true },
 { "name": "TBO Script (JJS)", "url": "https://raw.githubusercontent.com/cool5013/TBO/main/TBOscript", "title": "TBO HUB", "smart": true },
 { "name": "Combat Gui", "url": "https://api.luarmor.net/files/v3/loaders/34824c86db1eba5e5e39c7c2d6d7fdfe.lua", "smart": true },
@@ -62,7 +62,8 @@
 { "name": "Ovaz Hub", "url": "https://raw.githubusercontent.com/bloxfruitsnokey/Redz-Hub/refs/heads/main/Ovaz/run.luau", "title": "Ovaz Hub" },
 { "name": "Amethyst Hub", "url": "https://raw.githubusercontent.com/bloxfruitsnokey/Redz/refs/heads/main/Amethyst/new.luau", "title": "Amethyst Hub" },
 { "name": "Hydra Hub", "url": "https://raw.githubusercontent.com/SadExility/UnknownScripts/refs/heads/main/Blox%20fruits/HydraHub.lua", "title": "Hydra Hub" },
-{ "name": "Night Hub", "url": "https://raw.githubusercontent.com/WhiteX1208/Scripts/refs/heads/main/BF-Main.luau", "title": "Night Hub", "genv": { "script_key": "FREEMIUM" } }
+{ "name": "Night Hub", "url": "https://raw.githubusercontent.com/WhiteX1208/Scripts/refs/heads/main/BF-Main.luau", "title": "Night Hub", "genv": { "script_key": "FREEMIUM" } },
+{ "name": "CentuDox PVP", "url": "https://raw.githubusercontent.com/JustParadozCode/CentuDox-PVP/refs/heads/main/CentuDox.xyz", "title": "CentuDox PVP" }
 ],
 "blox_fruit_2": [],
 "blox_fruit_3": [],
