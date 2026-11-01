@@ -211,5 +211,19 @@
 { "name": "Hop Server Pet", "url": "https://raw.githubusercontent.com/napun87/stealaneggv2/refs/heads/main/hopefully.lua", "smart": true },
 { "name": "Chilli Hub Keyless", "url": "https://raw.githubusercontent.com/owenzeke99-tech/tienkhanh1/refs/heads/main/chillihubkeyless.lua", "smart": true },
 { "name": "Fake Admin", "url": "https://raw.githubusercontent.com/Dayvinksthik/Script/refs/heads/main/Games/JoshBNS-Crack.lua", "title": "Fake Admin", "smart": true }
+],
+"king_legacy": [
+{ "section": "📌 King Legacy" },
+{ "name": "Omg hub", "url": "https://raw.githubusercontent.com/Omgshit/Scripts/main/MainLoader.lua", "title": "Omg Hub", "smart": true },
+{ "name": "Hyper Hub", "url": "https://raw.githubusercontent.com/DookDekDEE/Hyper/main/script.lua", "title": "Hyper Hub", "smart": true },
+{ "name": "Zee Hub", "url": "https://zuwz.me/Ls-Zee-Hub-KL", "title": "Zee Hub", "smart": true },
+{ "name": "Zen Hub", "url": "https://raw.githubusercontent.com/Zenhubtop/zen_hub_pr/main/zennewwwwui.lua", "title": "Zen Hub", "smart": true },
+{ "name": "Hulk Hub", "url": "https://raw.githubusercontent.com/HULKUexe/mobileX/main/FreeScript.lua", "title": "Hulk Hub", "smart": true },
+{ "name": "Winnable hub", "url": "https://raw.githubusercontent.com/Winnablez/Winnable/main/Loader", "title": "Winnable Hub", "smart": true },
+{ "name": "Adel Hub", "url": "https://raw.githubusercontent.com/AdelOnTheTop/Adel-Hub/main/Main.lua", "title": "Adel Hub", "smart": true },
+{ "name": "Tsuo Hub", "url": "https://raw.githubusercontent.com/Tsuo7/TsuoHub/main/king%20legacy", "title": "Tsuo Hub", "smart": true },
+{ "name": "NTT hub", "url": "https://raw.githubusercontent.com/NTT-HUB/Script/refs/heads/main/main", "title": "NTT Hub", "smart": true },
+{ "name": "Fazium hub", "url": "https://raw.githubusercontent.com/ZaRdoOx/Fazium-files/main/Loader", "title": "Fazium Hub", "smart": true },
+{ "name": "Wukong hub", "url": "https://raw.githubusercontent.com/duymanhm6-cyber/wukonghud/refs/heads/main/wukonghud", "title": "Wukong Hub", "smart": true }
 ]
 } }
