@@ -46,6 +46,7 @@
 ],
 "blox_fruit_1": [
 { "section": "🔥Hot" },
+{ "name": "Redz Hub", "url": "https://raw.githubusercontent.com/bloxfruitsnokey/Redz/refs/heads/main/Redz/v2.luau", "title": "Redz Hub" },
 { "name": "Banana Hub", "url": "https://raw.githubusercontent.com/bloxfruitsnokey/Banana/refs/heads/main/Banana/script.luau", "title": "Banana Hub" },
 { "name": "Blue X Hub Beta", "url": "https://raw.githubusercontent.com/Dev-BlueX/BlueX-Hub/refs/heads/main/Main.lua", "title": "Blue X Hub Beta", "genv": { "AutoTranslate": false, "SaveConfig": true } },
 { "name": "Teddy Hub", "url": "https://raw.githubusercontent.com/teddyhubdev/diepvy/refs/heads/main/TeddyHub.lua", "title": "Teddy Hub" },
