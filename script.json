@@ -1,4 +1,4 @@
-{ "version": 1, "description": "Hiulz Hub script database. Mỗi mục: name, url, title (tuỳ chọn), smart (true = dùng safeLoadSmart), note, disabled. Bản dịch Anh: name_en, section_en, note_en, title_en.", "lists": {
+{ "version": 1, "description": "Hiulz Hub script database. Mỗi mục: name, url, title (tuỳ chọn), smart (true = dùng safeLoadSmart), note, disabled. Bản dịch: name_en/name_pt, section_en/section_pt, note_en/note_pt, title_en/title_pt (thiếu bản pt thì hub dùng bản en).", "lists": {
 "jjs": [
 { "section": "📌 Jujutsu Shenanigans" },
 { "name": "Atom Hub (🎃)", "url": "https://api.luarmor.net/files/v4/loaders/4edadc1849a9e19555f2328138618dd6.lua", "title": "Atom Hub", "smart": true },
@@ -22,7 +22,7 @@
 { "name": "XDevHubBeta", "url": "https://raw.githubusercontent.com/Emerson2-creator/Scripts-Roblox/refs/heads/main/XDevHubBeta.lua", "smart": true }
 ],
 "tsb_tech": [
-{ "section": "📌 Tùy chỉnh Tech (TSB)", "section_en": "📌 Tech Tools (TSB)" },
+{ "section": "📌 Tùy chỉnh Tech (TSB)", "section_en": "📌 Tech Tools (TSB)", "section_pt": "📌 Ferramentas Tech (TSB)" },
 { "name": "Supa Tech V3", "url": "https://api.getpolsec.com/scripts/hosted/ea0b7cbd8c395e01ec38271794b2559808d26501bd6e6e30c48660759a7db7b3.lua", "smart": true },
 { "name": "Garou Tech", "url": "https://raw.githubusercontent.com/Cyborg883/GarouTechs/refs/heads/main/Protected_9831634675356265.lua", "smart": true },
 { "name": "Backdash Cancel", "url": "https://api.getpolsec.com/scripts/hosted/0b57119c46c0267e6791f789ace2ffac7b752a63224d86a0b6f95d68aec099ac.lua", "smart": true },
@@ -33,7 +33,7 @@
 { "name": "M1 Reset", "url": "https://raw.githubusercontent.com/Slaphello/M1-Reset-And-Emote-Dash-TSB-OLD-/refs/heads/main/M1R%26ED%20TSB", "smart": true }
 ],
 "tsb_character": [
-{ "section": "📌 Nhân vật (TSB)", "section_en": "📌 Characters (TSB)" },
+{ "section": "📌 Nhân vật (TSB)", "section_en": "📌 Characters (TSB)", "section_pt": "📌 Personagens (TSB)" },
 { "name": "Perfect Gojo", "url": "https://rawscripts.net/raw/KJ-The-Strongest-Battlegrounds-battleground-gojo-script-saitama-to-gojo-26980" },
 { "name": "Sc!Sans", "url": "https://pastefy.app/SiVOcaqi/raw" },
 { "name": "Chara (Saitama)", "url": "https://pastefy.app/gFRaeMGz/raw", "title": "Chara" },
@@ -45,7 +45,7 @@
 { "name": "Sans", "url": "https://pastefy.app/EU9b4abX/raw" }
 ],
 "blox_fruit_1": [
-{ "section": "🔥Hot" },
+{ "section": "🔥Hot", "section_en": "🔥Hot", "section_pt": "🔥Em alta" },
 { "name": "Redz Hub", "url": "https://raw.githubusercontent.com/bloxfruitsnokey/Redz/refs/heads/main/Redz/v2.luau", "title": "Redz Hub" },
 { "name": "Banana Hub", "url": "https://raw.githubusercontent.com/bloxfruitsnokey/Banana/refs/heads/main/Banana/script.luau", "title": "Banana Hub" },
 { "name": "Blue X Hub Beta", "url": "https://raw.githubusercontent.com/Dev-BlueX/BlueX-Hub/refs/heads/main/Main.lua", "title": "Blue X Hub Beta", "genv": { "AutoTranslate": false, "SaveConfig": true } },
@@ -74,8 +74,8 @@
 { "section": "📌 KAITUN" }
 ],
 "auto_farm_2": [
-{ "name": "Kaitun Halloween (Blox Fruits)", "url": "https://raw.githubusercontent.com/hidescript/Kaitun/refs/heads/main/kaitunbloxfruit1", "title": "Kaitun Halloween", "note": "Kaitun tự động sự kiện Halloween", "note_en": "Auto Kaitun for the Halloween event" },
-{ "name": "Vxeze Hub Kaitun (Blox Fruits)", "url": "https://raw.githubusercontent.com/Dex-Bear/VxezeHubLoader/refs/heads/main/BF-Kaitun.lua", "title": "Vxeze Hub Kaitun", "note": "Kaitun tự động bản Free: team Pirates, khoá 30 FPS", "note_en": "Free auto Kaitun: Pirates team, 30 FPS lock", "genv": { "Premium": false, "FpsBoost": true, "Key": "", "Config": { "Blox Fruits": { "Hide UI": false, "Select Team": "Pirates", "White Screen": false, "Lock Fps": { "Enabled": true, "FPS": 30 }, "Get Items": { "Saber": true, "Godhuman": true, "Skull Guitar": true, "Mirror Fractal": true, "Cursed Dual Katana": true, "Shark Anchor": true }, "Get Rare Items": { "Rengoku": false, "Dragon Trident": false, "Pole (1st Form)": false, "Gravity Blade": false }, "Get Race": { "Race Quest": { "Enabled": false, "Race": ["Ghoul"] }, "Pull Lever": true }, "Farm Fragments": { "Enabled": false, "Fragment": 50000 }, "Summon Rip Indra": true, "Select Hop": { "Hop If Found Near Exploiter": false, "Hop Find rip_indra True Form": false, "Hop Find Dough King": false, "Hop Find Raids Castle": false, "Hop Find Cake Queen": false, "Hop Find Soul Reaper": false, "Hop Find Darkbeard": false, "Hop Find Mirage": false }, "Farm Mastery": { "Enabled": false, "Mode": "Bone", "Weapon Farm": ["Sword", "Blox Fruit"] }, "Sniper Fruit Shop": { "Enabled": true, "Fruit": ["Leopard-Leopard", "Kitsune-Kitsune", "Dragon-Dragon", "Yeti-Yeti", "Gas-Gas"] }, "Lock Fruit": {}, "Webhook": { "Enabled": false, "Ping Discord": "<@here>", "Url": "" } } } } },
+{ "name": "Kaitun Halloween (Blox Fruits)", "url": "https://raw.githubusercontent.com/hidescript/Kaitun/refs/heads/main/kaitunbloxfruit1", "title": "Kaitun Halloween", "note": "Kaitun tự động sự kiện Halloween", "note_en": "Auto Kaitun for the Halloween event", "note_pt": "Kaitun automático para o evento de Halloween" },
+{ "name": "Vxeze Hub Kaitun (Blox Fruits)", "url": "https://raw.githubusercontent.com/Dex-Bear/VxezeHubLoader/refs/heads/main/BF-Kaitun.lua", "title": "Vxeze Hub Kaitun", "note": "Kaitun tự động bản Free: team Pirates, khoá 30 FPS", "note_en": "Free auto Kaitun: Pirates team, 30 FPS lock", "note_pt": "Kaitun automático versão grátis: time Pirates, FPS travado em 30", "genv": { "Premium": false, "FpsBoost": true, "Key": "", "Config": { "Blox Fruits": { "Hide UI": false, "Select Team": "Pirates", "White Screen": false, "Lock Fps": { "Enabled": true, "FPS": 30 }, "Get Items": { "Saber": true, "Godhuman": true, "Skull Guitar": true, "Mirror Fractal": true, "Cursed Dual Katana": true, "Shark Anchor": true }, "Get Rare Items": { "Rengoku": false, "Dragon Trident": false, "Pole (1st Form)": false, "Gravity Blade": false }, "Get Race": { "Race Quest": { "Enabled": false, "Race": ["Ghoul"] }, "Pull Lever": true }, "Farm Fragments": { "Enabled": false, "Fragment": 50000 }, "Summon Rip Indra": true, "Select Hop": { "Hop If Found Near Exploiter": false, "Hop Find rip_indra True Form": false, "Hop Find Dough King": false, "Hop Find Raids Castle": false, "Hop Find Cake Queen": false, "Hop Find Soul Reaper": false, "Hop Find Darkbeard": false, "Hop Find Mirage": false }, "Farm Mastery": { "Enabled": false, "Mode": "Bone", "Weapon Farm": ["Sword", "Blox Fruit"] }, "Sniper Fruit Shop": { "Enabled": true, "Fruit": ["Leopard-Leopard", "Kitsune-Kitsune", "Dragon-Dragon", "Yeti-Yeti", "Gas-Gas"] }, "Lock Fruit": {}, "Webhook": { "Enabled": false, "Ping Discord": "<@here>", "Url": "" } } } } },
 { "name": "Meox Hub Kaitun", "url": "https://raw.githubusercontent.com/MEOW-HUB-DEV/SCRIPT-FREE/refs/heads/main/MeowKaitun.lua" },
 { "name": "ADZ KAITUN", "url": "https://raw.githubusercontent.com/AnDepZaiHub/AnDepZaiHubBeta/refs/heads/main/adzKaitun.lua", "title": "ADZ KT" }
 ],
@@ -93,14 +93,14 @@
 { "name": "Cyrus Hub", "url": "https://raw.githubusercontent.com/kedd063/KdmlScripts/refs/heads/main/EscapeTsunamiForBrainrotsV4" }
 ],
 "fish_it": [
-{ "section": "📌 Fish It Script" },
+{ "section": "📌 Fish It Script", "section_en": "📌 Fish It Script", "section_pt": "📌 Script Fish It" },
 { "name": "Load Script Fisch It", "url": "https://raw.githubusercontent.com/Skibidiking123/Fisch1/refs/heads/main/FischMain", "title": "FishIt - FischMain", "smart": true },
 { "name": "Fish IT-2", "url": "https://menghub.dannnnbiasalah.workers.dev/", "title": "FishIt - 2", "smart": true }
 ],
 "fish": [
-{ "section": "📌 Fish Script" },
+{ "section": "📌 Fish Script", "section_en": "📌 Fish Script", "section_pt": "📌 Script Fish" },
 { "name": "Load Lynx Hub", "url": "https://raw.githubusercontent.com/4LynxX/Lynx/refs/heads/main/LynxxMain.lua", "title": "Lynx Hub", "smart": true },
-{ "name": "Load Shield Team & Lưu ý : vô nó sẽ hiện bản discord gì đó ấn copy link và đợi 3s script sẽ tự bật nha :>>", "name_en": "Load Shield Team & Note: a Discord prompt will appear, copy the link and wait 3s, the script starts by itself :>>", "url": "https://api.shieldteam.asia/api/allscript", "title": "Shield Team - AllScript", "smart": true }
+{ "name": "Load Shield Team & Lưu ý : vô nó sẽ hiện bản discord gì đó ấn copy link và đợi 3s script sẽ tự bật nha :>>", "name_en": "Load Shield Team & Note: a Discord prompt will appear, copy the link and wait 3s, the script starts by itself :>>", "name_pt": "Carregar Shield Team e Nota: vai aparecer um aviso do Discord, copie o link e espere 3s que o script inicia sozinho :>>", "url": "https://api.shieldteam.asia/api/allscript", "title": "Shield Team - AllScript", "smart": true }
 ],
 "mm2": [
 { "section": "📌 Murder Mystery 2" },
@@ -145,14 +145,14 @@
 "doors": [
 { "section": "📌 Script Doors" },
 { "name": "ZeScript", "url": "https://api.jnkie.com/api/v1/luascripts/public/4192419a355cd0233b7416f498b78b91eb87bfb6123a4d214a2aa1e9243c6c72/download", "smart": true },
-{ "name": "MonQer Hub (Update)", "url": "https://scriptunlocker.com/h/649ba8e7-5f5b-4637-924c-bde17293bb0d.lua" },
+{ "name": "MonQer Hub (Update)", "url": "https://scriptunlocker.com/h/649ba8e7-5f5b-4637-924c-bde17293bb0d.lua", "name_en": "MonQer Hub (Updated)", "name_pt": "MonQer Hub (Atualizado)" },
 { "name": "DToraIsMe", "url": "https://raw.githubusercontent.com/DarkDoorsKing/More/main/Doors_RC" }
 ],
 "99_nights": [
 { "section": "📌 Script 99 Nights In The Forest" },
 { "name": "Nova Hub", "url": "https://raw.githubusercontent.com/M4rshmall0ow-dev/Nova/refs/heads/main/Script%20Loader%20Main" },
 { "name": "Than Hub", "url": "https://raw.githubusercontent.com/thantzy/thanhub/refs/heads/main/thanv1" },
-{ "name": "Infinite diamond", "url": "https://raw.githubusercontent.com/MQPS7/99-Night-in-the-Forset/refs/heads/main/Gfarm" },
+{ "name": "Infinite diamond", "url": "https://raw.githubusercontent.com/MQPS7/99-Night-in-the-Forset/refs/heads/main/Gfarm", "name_pt": "Diamante infinito" },
 { "name": "alchemy hub", "url": "https://scripts.alchemyhub.xyz" },
 { "name": "hoho hub", "url": "https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI" },
 { "name": "av hub", "url": "https://get-avth-ontop.netlify.app/my-paste/script.lua" },
@@ -172,26 +172,26 @@
 { "name": "QewX", "url": "https://pastebin.com/raw/Rhm6VrXp" }
 ],
 "titan_fishing": [
-{ "section": "Script Câu cá vạn cân", "section_en": "Titan Fishing Script" },
+{ "section": "Script Câu cá vạn cân", "section_en": "Titan Fishing Script", "section_pt": "Script Titan Fishing" },
 { "name": "Khfresh Hub", "url": "https://pastefy.app/F1ZRpgGL/raw" }
 ],
 "general": [
-{ "section": "📌 Script Khác", "section_en": "📌 Other Scripts" },
+{ "section": "📌 Script Khác", "section_en": "📌 Other Scripts", "section_pt": "📌 Outros Scripts" },
 { "name": "Infinite Yield (FE Admin)", "url": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source", "title": "Infinite Yield", "smart": true },
-{ "name": "FE Animations", "url": "https://raw.githubusercontent.com/BeemTZy/Motiona/refs/heads/main/source.lua", "smart": true },
+{ "name": "FE Animations", "url": "https://raw.githubusercontent.com/BeemTZy/Motiona/refs/heads/main/source.lua", "name_pt": "Animações FE", "smart": true },
 { "name": "Load Speed Hub X", "url": "https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", "title": "Speed Hub X", "smart": true },
 { "name": "PShade Shader", "url": "https://rawscripts.net/raw/Universal-Script-PShade-Ultimate-not-made-by-me-138315", "title": "PShade Shader", "smart": true },
 { "name": "FE EMOTES", "url": "https://raw.githubusercontent.com/7yd7/Hub/refs/heads/main/GUIS/Emotes.lua", "smart": true },
 { "name": "AnimationLGR", "url": "https://raw.githubusercontent.com/Mereeeecuf/Developer-Tools/refs/heads/main/AnimationLGR", "smart": true }
 ],
 "optimize": [
-{ "name": "🍂 Script chỉnh đồ hoạ", "name_en": "🍂 Graphics Tuner Script", "url": "https://raw.githubusercontent.com/randomstring0/pshade-ultimate/refs/heads/main/src/cd.lua", "title": "Script chỉnh đồ hoạ", "title_en": "Graphics Tuner Script" }
+{ "name": "🍂 Script chỉnh đồ hoạ", "name_en": "🍂 Graphics Tuner Script", "name_pt": "🍂 Script de ajuste gráfico", "url": "https://raw.githubusercontent.com/randomstring0/pshade-ultimate/refs/heads/main/src/cd.lua", "title": "Script chỉnh đồ hoạ", "title_en": "Graphics Tuner Script", "title_pt": "Script de ajuste gráfico" }
 ],
 "steal_an_egg": [
   { "section": "📌 Steal an Egg" },
   { "name": "Figgy Hub", "url": "https://raw.githubusercontent.com/napun87/stealaneggv2/refs/heads/main/figfy.lua", "smart": true },
-  { "name": "Fake Admin", "url": "https://raw.githubusercontent.com/Dayvinksthik/Script/refs/heads/main/Games/JoshBNS-Crack.lua", "title": "Fake Admin", "smart": true },
-  { "name": "Script Check Sever Trứng Xịn", "url": "https://cdn.luaprotect.dev/u/8660b0/AvrC3cs5mZ38jbnD", "smart": true },
+  { "name": "Fake Admin", "url": "https://raw.githubusercontent.com/Dayvinksthik/Script/refs/heads/main/Games/JoshBNS-Crack.lua", "title": "Fake Admin", "name_pt": "Admin Falso", "smart": true },
+  { "name": "Script Check Sever Trứng Xịn", "name_en": "Good Egg Server Checker Script", "name_pt": "Script Verificador de Servidor com Ovos Bons", "url": "https://cdn.luaprotect.dev/u/8660b0/AvrC3cs5mZ38jbnD", "smart": true },
   { "name": "Chilli Hub V8-2", "url": "https://raw.githubusercontent.com/napun67/stealanegg/refs/heads/main/chillihubv8.lua", "title": "Chilli Hub V8-2", "smart": true },
   { "name": "Ajj Hub", "url": "https://api.luarmor.net/files/v4/loaders/359e97f8618e9008afe5f496184ebb7c.lua", "title": "Ajj Hub", "smart": true },
   { "name": "VenyxHub", "url": "https://raw.githubusercontent.com/tienkhanh1/Venyx/main/VenyxHub", "title": "VenyxHub", "smart": true },
@@ -201,20 +201,20 @@
   { "name": "Realkidhub", "url": "https://raw.githubusercontent.com/realkidhub/realkid/refs/heads/main/main.lua", "smart": true },
   { "name": "Chullu Hub", "url": "https://raw.githubusercontent.com/napun87/stealaneggv2/refs/heads/main/chulluHub.lua", "smart": true },
   { "name": "Chilli HubV", "url": "https://raw.githubusercontent.com/kadit9999/stealanegg/refs/heads/main/ChilliV5BaKhi.lua", "smart": true },
-  { "name": "Chơi Admin Abuse", "name_en": "Admin Abuse", "url": "https://raw.githubusercontent.com/gojosatoru751/scriptdz/refs/heads/main/script.lua", "smart": true },
+  { "name": "Chơi Admin Abuse", "name_en": "Admin Abuse", "name_pt": "Admin Abuse", "url": "https://raw.githubusercontent.com/gojosatoru751/scriptdz/refs/heads/main/script.lua", "smart": true },
   { "name": "Admin Abuse2,Key:fan phong roblox", "url": "https://gist.githubusercontent.com/angeryy-tvy/6a9ce750ddf5860230196ac468868fdb/raw/Steal-An-Egg-Vxeze", "smart": true },
-  { "name": "No lag Hub", "url": "https://raw.githubusercontent.com/napun87/stealaneggv2/refs/heads/main/Nolag.lua", "smart": true },
+  { "name": "No lag Hub", "url": "https://raw.githubusercontent.com/napun87/stealaneggv2/refs/heads/main/Nolag.lua", "name_pt": "Hub sem lag", "smart": true },
   { "name": "Vexezehub Hub,Key:fan rubutv", "url": "https://gist.githubusercontent.com/angeryy-tvy/6a9ce750ddf5860230196ac468868fdb/raw/Steal-An-Egg-Vxeze", "smart": true },
   { "name": "Miranda Hub ", "url": "https://raw.githubusercontent.com/gojosatoru751/scriptdz/refs/heads/main/miranda.lua", "smart": true },
   { "name": "NightHub", "url": "https://raw.githubusercontent.com/WhiteX1208/Scripts/refs/heads/main/StealAnEggs.luau", "smart": true },
-  { "name": "Skid Hub (Tiếng Việt)", "name_en": "Skid Hub (Vietnamese)", "url": "https://vxezestudio.online/api/scripts/script_JS69qlzJxDea4/stream/init", "smart": true },
-  { "name": "Teddy Tiếng Việt (Update)", "name_en": "Teddy Hub (Vietnamese, Updated)", "url": "https://raw.githubusercontent.com/gojosatoru751/scriptdz/refs/heads/main/teddyhubtiengvietv2.lua", "title": "Teddy Hub", "smart": true },
-  { "name": "Chilli x Venyx", "name_en": "Chilli x Venyx (Vietnamese)", "url": "https://id.tomroblox.com/raw/kairoblox/chilli-x-venyx-viet-hoa-premium-v7-pro", "smart": true },
+  { "name": "Skid Hub (Tiếng Việt)", "name_en": "Skid Hub (Vietnamese)", "name_pt": "Skid Hub (Vietnamita)", "url": "https://vxezestudio.online/api/scripts/script_JS69qlzJxDea4/stream/init", "smart": true },
+  { "name": "Teddy Tiếng Việt (Update)", "name_en": "Teddy Hub (Vietnamese, Updated)", "name_pt": "Teddy Hub (Vietnamita, Atualizado)", "url": "https://raw.githubusercontent.com/gojosatoru751/scriptdz/refs/heads/main/teddyhubtiengvietv2.lua", "title": "Teddy Hub", "smart": true },
+  { "name": "Chilli x Venyx V8 Finder (Free)", "name_en": "Chilli x Venyx V8 Finder (Free)", "name_pt": "Chilli x Venyx V8 Finder (Grátis)", "url": "https://id.tomroblox.com/raw/kairoblox/chilli-x-venyx-v8-finder-free-9836", "title": "Chilli x Venyx V8 Finder", "smart": true },
   { "name": "Chilli V7", "url": "https://raw.githubusercontent.com/napun87/stealanegg/refs/heads/main/chillibakhi.lua", "smart": true },
   { "name": "Chilli Hub Pro", "url": "https://raw.githubusercontent.com/napun87/stealanegg/refs/heads/main/ChilliHubPro.lua", "smart": true },
-  { "name": "Script Phân Thân", "name_en": "Clone Script", "url": "https://raw.githubusercontent.com/ThanhDuyHub/Curu/refs/heads/main/Steal-An-Egg-V3.lua", "title": "Script Phân Thân", "title_en": "Clone Script", "smart": true },
+  { "name": "Script Phân Thân", "name_en": "Clone Script", "name_pt": "Script de Clone", "url": "https://raw.githubusercontent.com/ThanhDuyHub/Curu/refs/heads/main/Steal-An-Egg-V3.lua", "title": "Script Phân Thân", "title_en": "Clone Script", "title_pt": "Script de Clone", "smart": true },
   { "name": "Sena Hub", "url": "https://raw.githubusercontent.com/napun87/stealaneggv2/refs/heads/main/sensahub.lua", "smart": true },
-  { "name": "Hop Server Pet", "url": "https://raw.githubusercontent.com/napun87/stealaneggv2/refs/heads/main/hopefully.lua", "smart": true },
+  { "name": "Hop Server Pet", "url": "https://raw.githubusercontent.com/napun87/stealaneggv2/refs/heads/main/hopefully.lua", "name_pt": "Trocar de servidor (Pet)", "smart": true },
   { "name": "Chilli Hub Keyless", "url": "https://raw.githubusercontent.com/owenzeke99-tech/tienkhanh1/refs/heads/main/chillihubkeyless.lua", "smart": true }
 ],
 "king_legacy": [
