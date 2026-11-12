@@ -189,6 +189,7 @@
 ],
 "steal_an_egg": [
   { "section": "📌 Steal an Egg" },
+  { "name": "Chilli Hub V10", "url": "https://raw.githubusercontent.com/tienkhanh1/spicy/main/Chilli.lua", "title": "Chilli Hub V10", "smart": true },
   { "name": "Venyx Chilli V9", "name_en": "Venyx Chilli V9", "name_pt": "Venyx Chilli V9", "url": "https://id.tomroblox.com/raw/kairoblox/venyx-chilli-v9-ba-khi-909", "title": "Venyx Chilli V9", "smart": true },
   { "name": "Figgy Hub", "url": "https://raw.githubusercontent.com/napun87/stealaneggv2/refs/heads/main/figfy.lua", "smart": true },
   { "name": "Fake Admin", "url": "https://raw.githubusercontent.com/Dayvinksthik/Script/refs/heads/main/Games/JoshBNS-Crack.lua", "title": "Fake Admin", "name_pt": "Admin Falso", "smart": true },
