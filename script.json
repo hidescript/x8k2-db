@@ -189,6 +189,7 @@
 ],
 "steal_an_egg": [
   { "section": "📌 Steal an Egg" },
+  { "name": "Divine Script", "name_en": "Divine Script", "name_pt": "Script Divine", "url": "https://raw.githubusercontent.com/gojosatoru751/scriptdz/refs/heads/main/Divinefinder.lua", "title": "Divine Script", "smart": true },
   { "name": "Chilli Hub V10", "url": "https://raw.githubusercontent.com/tienkhanh1/spicy/main/Chilli.lua", "title": "Chilli Hub V10", "smart": true },
   { "name": "Script Finder Egg Free", "url": "https://raw.githubusercontent.com/syss1211/Tenshi-script/main/NYX.lua", "title": "Script Finder Egg Free", "smart": true },
   { "name": "Venyx Chilli V9", "name_en": "Venyx Chilli V9", "name_pt": "Venyx Chilli V9", "url": "https://id.tomroblox.com/raw/kairoblox/venyx-chilli-v9-ba-khi-909", "title": "Venyx Chilli V9", "smart": true },
